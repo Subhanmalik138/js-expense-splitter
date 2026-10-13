@@ -1,0 +1,1 @@
+{"bin":{"expense-splitter":"./bin/cli.js"},"description":"Zero-dependency CLI expense splitter — computes minimal settlement transactions","engines":{"node":">=18"},"license":"MIT","name":"js-expense-splitter","scripts":{"start":"node bin/cli.js sample-expenses.json","test":"node --test tests/splitter.test.js"},"type":"module","version":"1.0.0"}
